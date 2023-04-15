@@ -1,3 +1,6 @@
+# Polymath Library Files
+libraries/*.json
+
 # Logs
 logs
 *.log
